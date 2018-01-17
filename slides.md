@@ -1,52 +1,79 @@
 # Platform coop: The Katuma case
 
-## Katuma
+---
+
+## Goals
 
 ---
 
-### Community
-
-Who is it?
+Help small-scale producers and responsible food consumption survive
 
 ---
 
-### Community
+### Network
 
-Threats
-
----
-
-### Technology
-
-Platform
+* Small producers
+* Group consumption
+* Better logistics
 
 ---
 
-### Technology
+## Layers
 
-OFN
-
----
-
-### Technology
-
-Threats
+![Layers diagram](images/layers.jpg)
 
 ---
 
-### Model
-
-Platform coop
+## Community
 
 ---
 
-### Model
+### Sectors
+
+* Production
+* Consumption
+
+---
+
+### Threats
+
+* Fragmentation: lack of coordination in both sectors
+* Complex project, hard to communicate
+
+---
+
+## Technology
+
+Platform to place and manage orders from food hubs to producers **across a network**
+
+---
+
+### Open Food Network
+
+![](images/ofn.png)
+
+---
+
+### Threats
+
+* Two-level governance: local and global
+* Scarcity of resources
+
+---
+
+## Model
+
+Platform cooperativism
+
+---
+
+## Model
 
 Sustainability
 
 ---
 
-## Coopdevs
+# Coopdevs
 
 ---
 
@@ -56,4 +83,17 @@ Sustainability
 
 ### Katuma it's just one of the projects
 
+OpenFoodNetwork, TimeOverflow, OdooCoop, etc.
 
+---
+
+## Dig deeper
+
+* https://resonate.is/
+* https://github.com/hng/tech-coops
+* https://github.com/mwmeyer/awesome-tech-cooperatives
+* https://platform.coop/
+
+---
+
+## Q&A
