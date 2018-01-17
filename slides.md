@@ -74,6 +74,7 @@ Platform to place and manage orders from food hubs to producers **across a netwo
 
 * Two-level governance: local and global
 * Scarcity of resources
+* Funding open source
 
 ---
 
