@@ -4,6 +4,10 @@
 
 ## Goals
 
+![](images/goals.jpg)
+
+[.footer: Photo by Todd Diemer on Unsplash]
+
 ---
 
 Help small-scale producers and responsible food consumption survive
@@ -26,6 +30,10 @@ Help small-scale producers and responsible food consumption survive
 
 ## Community
 
+![](images/community.jpg)
+
+[.footer: Photo by Salvador Atance]
+
 ---
 
 ### Sectors
@@ -39,6 +47,14 @@ Help small-scale producers and responsible food consumption survive
 
 * Fragmentation: lack of coordination in both sectors
 * Complex project, hard to communicate
+
+---
+
+## Technology
+
+![](images/technology.jpg)
+
+[.footer: Photo by Johannes Plenio on Unsplash]
 
 ---
 
@@ -58,6 +74,14 @@ Platform to place and manage orders from food hubs to producers **across a netwo
 
 * Two-level governance: local and global
 * Scarcity of resources
+
+---
+
+## Model
+
+![](images/model.jpg)
+
+[.footer: Photo by rawpixel.com on Unsplash]
 
 ---
 
@@ -89,11 +113,17 @@ OpenFoodNetwork, TimeOverflow, OdooCoop, etc.
 
 ## Dig deeper
 
+![](images/qa.jpg)
+
 * https://resonate.is/
 * https://github.com/hng/tech-coops
 * https://github.com/mwmeyer/awesome-tech-cooperatives
 * https://platform.coop/
 
+[.footer: Photo by Matteo Paganelli on Unsplash]
+
 ---
 
 ## Q&A
+
+![](images/qa.jpg)
