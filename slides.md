@@ -1,4 +1,4 @@
-# Free Software Barcelona
+# Platform coop: The Katuma case
 
 ## Katuma
 
