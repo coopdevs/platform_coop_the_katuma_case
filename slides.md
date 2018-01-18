@@ -139,3 +139,7 @@ OpenFoodNetwork, TimeOverflow, OdooCoop, etc.
 ## Q&A
 
 ![](images/qa.jpg)
+
+@katuma\_org
+@coopdevs
+github.com/coopdevs/
