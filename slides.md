@@ -14,6 +14,8 @@
 
 Help small-scale producers and responsible food consumption survive
 
+![right fit 50%](images/logo_katuma.png)
+
 ---
 
 ### Network
