@@ -10,6 +10,8 @@
 
 ---
 
+### Goals
+
 Help small-scale producers and responsible food consumption survive
 
 ---
@@ -102,7 +104,7 @@ Sustainability
 
 ---
 
-### Drives the platform
+### Drives the Katuma platform
 
 ---
 
