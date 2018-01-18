@@ -92,6 +92,10 @@ Platform to place and manage orders from food hubs to producers **across a netwo
 
 Platform cooperativism
 
+* Resonate, streaming music service
+* Mytaxi UK / Black Cab coop, taxi service
+* Fairmondo, online marketplace
+
 ---
 
 ## Model
@@ -118,10 +122,13 @@ OpenFoodNetwork, TimeOverflow, OdooCoop, etc.
 
 ![](images/qa.jpg)
 
-* https://resonate.is/
+* https://katuma.org
 * https://github.com/hng/tech-coops
 * https://github.com/mwmeyer/awesome-tech-cooperatives
 * https://platform.coop/
+* https://resonate.is/
+* https://www.thenews.coop/122467/sector/community/taxiapp-londons-black-cab-co-op-alternative-uber/
+* https://fairmondo.uk/
 
 [.footer: Photo by Matteo Paganelli on Unsplash]
 
