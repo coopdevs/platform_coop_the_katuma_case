@@ -3,7 +3,7 @@
 Recursos de la sessió *A local network of agroecological producers: The Katuma.org case* del Barcelona Free Software meetup del 18/01/2018.
 
   * [Diapositives](slides.md)
-  * [Diapositives en PDF]()
+  * [Diapositives en PDF](https://speakerdeck.com/coopdevs/platform-coop-the-katuma-case)
 
 ## Com has fet les diapositives?
 
