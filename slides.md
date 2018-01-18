@@ -100,7 +100,7 @@ Sustainability
 
 ---
 
-# Coopdevs
+![fit](images/logo_coopdevs.png)
 
 ---
 
